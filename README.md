@@ -108,8 +108,8 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 
 ```
 LLM & AI Agents         ████████████  10 projektów
-DevOps & Infrastructure ████████      8 projektów
-Code Analysis           ███████       7 projektów
+DevOps & Infrastructure █████████           8 projektów
+Code Analysis           ███████              7 projektów
 System & Repair         ████          4 projekty
 NLP & Voice             █████         5 projektów
 Frameworks & DSL        ████          4 projekty
@@ -120,10 +120,10 @@ Pactown Platform        ███           3 projekty
 ## Architektura ekosystemu
 
 ```
-                    ┌─────────────────┐
+                    ┌──────────────────┐
                     │   LLM Providers  │
                     │ Ollama/OpenRouter│
-                    └────────┬────────┘
+                    └────────┬─────────┘
                              │
         ┌────────────────────┼────────────────────┐
         │                    │                    │
@@ -133,8 +133,8 @@ Pactown Platform        ███           3 projekty
    │(nlp2cmd, │        │  ellma,  │        │ clonebox,│
    │  stts)   │        │  intent) │        │  mcp)    │
    └────┬─────┘        └─────┬────┘        └─────┬────┘
-        │                    │                    │
-        └────────────────────┼────────────────────┘
+        │                    │                   │
+        └────────────────────┼───────────────────┘
                              │
                     ┌────────▼────────┐
                     │   Markpact /    │
