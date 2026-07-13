@@ -79,12 +79,12 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [taskguard](https://wronai.github.io/taskguard/) | Taskguard | Python |
 | [tellm](https://wronai.github.io/tellm/) | Tellm | Python |
 | [teLLMe](https://wronai.github.io/teLLMe/) | teLLMe — Unified voice+LLM platform for local code, media, and service control via wronai ecosystem (stts, nlp2cmd, code2llm, toonic,… | Python |
-| [text2dsl](https://wronai.github.io/text2dsl/) | Głosowa nawigacja CLI z kontekstowym wsparciem | Python |
+| [text2dsl](https://wronai.github.io/text2dsl/) | Text2Dsl | Python |
 | [textx](https://wronai.github.io/textx/) | Textx | Python |
 | [todomat](https://wronai.github.io/todomat/) | Todomat — TODO orchestration with NLP2DSL, ITERUN, and curllm pipelines | Python |
 | [vdisplay](https://wronai.github.io/vdisplay/) | Cross-platform virtual display orchestration with virtual and mirror sessions | Python |
 | [webops](https://wronai.github.io/webops/) | Webops | Python |
-| [wrd](https://wronai.github.io/wrd/) | WRD (WRonai Development) - A powerful workflow automation tool for developers | Python |
+| [wrd](https://wronai.github.io/wrd/) | Wrd | Python |
 | [www](https://wronai.github.io/www/) | A static dashboard to showcase WronAI's open source projects with automatic repository analysis. | Python |
 | [xnv](https://wronai.github.io/xnv/) | Python virtual environment doctor — diagnose and fix broken venvs, pip, poetry locks | Python |
 
@@ -95,4 +95,4 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 - **Łącznie projektów**: 68
 - **Strony projektów**: `https://wronai.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-07-12_
+_Ostatnia aktualizacja: 2026-07-13_
