@@ -47,8 +47,8 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [formagent](https://wronai.github.io/formagent/) | Automated form filling and job application tool | JavaScript |
 | [formap](https://wronai.github.io/formap/) | Formap | Python |
 | [fraq](https://wronai.github.io/fraq/) | Fractal Query Data Library — model data as infinite, self-similar fractal structures | HTML |
-| [getv](https://wronai.github.io/getv/) | Getv | Python |
-| [git2wp](https://wronai.github.io/git2wp/) | Git2Wp | JavaScript |
+| [getv](https://wronai.github.io/getv/) | Universal .env variable manager — read, write, encrypt, delegate across services and devices | Python |
+| [git2wp](https://wronai.github.io/git2wp/) | Backend dla automatycznego generowania i publikowania artykułów WordPress na podstawie aktywności Git | JavaScript |
 | [go-forward-llm](https://wronai.github.io/go-forward-llm/) | Go Forward Llm | PowerShell |
 | [gollm](https://wronai.github.io/gollm/) | Go Learn, Lead, Master! - Inteligentny system kontroli jakości kodu z integracją LLM | Python |
 | [hypervisor](https://wronai.github.io/hypervisor/) | TellMesh — URI-first agent monorepo umbrella (uri3, nl2uri, hypervisor, agent factory) | HTML |
