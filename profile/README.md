@@ -47,8 +47,8 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [formagent](https://wronai.github.io/formagent/) | Automated form filling and job application tool | JavaScript |
 | [formap](https://wronai.github.io/formap/) | Formap | Python |
 | [fraq](https://wronai.github.io/fraq/) | Fractal Query Data Library — model data as infinite, self-similar fractal structures | HTML |
-| [getv](https://wronai.github.io/getv/) | Universal .env variable manager — read, write, encrypt, delegate across services and devices | Python |
-| [git2wp](https://wronai.github.io/git2wp/) | Backend dla automatycznego generowania i publikowania artykułów WordPress na podstawie aktywności Git | JavaScript |
+| [getv](https://wronai.github.io/getv/) | Getv | Python |
+| [git2wp](https://wronai.github.io/git2wp/) | Git2Wp | JavaScript |
 | [go-forward-llm](https://wronai.github.io/go-forward-llm/) | Go Forward Llm | PowerShell |
 | [gollm](https://wronai.github.io/gollm/) | Go Learn, Lead, Master! - Inteligentny system kontroli jakości kodu z integracją LLM | Python |
 | [hypervisor](https://wronai.github.io/hypervisor/) | TellMesh — URI-first agent monorepo umbrella (uri3, nl2uri, hypervisor, agent factory) | HTML |
@@ -79,12 +79,12 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [taskguard](https://wronai.github.io/taskguard/) | Taskguard | Python |
 | [tellm](https://wronai.github.io/tellm/) | Tellm | Python |
 | [teLLMe](https://wronai.github.io/teLLMe/) | teLLMe — Unified voice+LLM platform for local code, media, and service control via wronai ecosystem (stts, nlp2cmd, code2llm, toonic,… | Python |
-| [text2dsl](https://wronai.github.io/text2dsl/) | Text2Dsl | Python |
+| [text2dsl](https://wronai.github.io/text2dsl/) | Głosowa nawigacja CLI z kontekstowym wsparciem | Python |
 | [textx](https://wronai.github.io/textx/) | Textx | Python |
 | [todomat](https://wronai.github.io/todomat/) | Todomat — TODO orchestration with NLP2DSL, ITERUN, and curllm pipelines | Python |
 | [vdisplay](https://wronai.github.io/vdisplay/) | Cross-platform virtual display orchestration with virtual and mirror sessions | Python |
 | [webops](https://wronai.github.io/webops/) | Webops | Python |
-| [wrd](https://wronai.github.io/wrd/) | Wrd | Python |
+| [wrd](https://wronai.github.io/wrd/) | WRD (WRonai Development) - A powerful workflow automation tool for developers | Python |
 | [www](https://wronai.github.io/www/) | A static dashboard to showcase WronAI's open source projects with automatic repository analysis. | Python |
 | [xnv](https://wronai.github.io/xnv/) | Python virtual environment doctor — diagnose and fix broken venvs, pip, poetry locks | Python |
 
