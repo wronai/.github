@@ -95,4 +95,4 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 - **Łącznie projektów**: 68
 - **Strony projektów**: `https://wronai.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-07-20_
+_Ostatnia aktualizacja: 2026-07-21_
