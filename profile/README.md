@@ -85,7 +85,7 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [vdisplay](https://wronai.github.io/vdisplay/) | Cross-platform virtual display orchestration with virtual and mirror sessions | Python |
 | [webops](https://wronai.github.io/webops/) | Webops | Python |
 | [wrd](https://wronai.github.io/wrd/) | WRD (WRonai Development) - A powerful workflow automation tool for developers | Python |
-| [www](https://wronai.github.io/www/) | Landing page dla projektów WronAI Agents Platform z codziennym cache z GitHub API | Python |
+| [www](https://wronai.github.io/www/) | Www | HTML |
 | [xnv](https://wronai.github.io/xnv/) | Python virtual environment doctor — diagnose and fix broken venvs, pip, poetry locks | Python |
 
 ---
@@ -95,4 +95,4 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 - **Łącznie projektów**: 68
 - **Strony projektów**: `https://wronai.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-08-15_
+_Ostatnia aktualizacja: 2026-08-16_
