@@ -68,7 +68,7 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [ocr](https://wronai.github.io/ocr/) | Advanced PDF OCR processing with AI-powered text extraction and selectable text overlays | Python |
 | [ollama](https://wronai.github.io/ollama/) | Ollama | Shell |
 | [projektor](https://wronai.github.io/projektor/) | LLM-orchestrated project management with DevOps automation for iterative development | Python |
-| [proxeen](https://wronai.github.io/proxeen/) | Proxeen | Python |
+| [proxeen](https://wronai.github.io/proxeen/) | Proxeen — AI Desktop Assistant with real-time screen analysis, voice recognition, and window context awareness. | Python |
 | [quality](https://wronai.github.io/quality/) | Automatic code quality enforcement at interpreter level | Python |
 | [rag1](https://wronai.github.io/rag1/) | Rag1 | Python |
 | [shapi](https://wronai.github.io/shapi/) | Shapi | HTML |
