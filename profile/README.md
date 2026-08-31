@@ -41,7 +41,7 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [ellma](https://wronai.github.io/ellma/) | Ellma | Python |
 | [ellmo](https://wronai.github.io/ellmo/) | Ellmo | Shell |
 | [find](https://wronai.github.io/find/) | Find | HTML |
-| [fixell](https://wronai.github.io/fixell/) | Zdalna naprawa systemu Linux z AI (Ollama) | Python |
+| [fixell](https://wronai.github.io/fixell/) | Fixell - Zdalna naprawa systemu Linux z AI (Ollama) w trybie awaryjnym, wspierająca Fedorę, Ubuntu i Debiana poprzez interaktywną… | Python |
 | [follm](https://wronai.github.io/follm/) | AI-powered form filler using Playwright - Automate form filling with ease | HTML |
 | [follme](https://wronai.github.io/follme/) | Follme | — |
 | [formagent](https://wronai.github.io/formagent/) | Automated form filling and job application tool | JavaScript |
@@ -95,4 +95,4 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 - **Łącznie projektów**: 68
 - **Strony projektów**: `https://wronai.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-08-30_
+_Ostatnia aktualizacja: 2026-08-31_
