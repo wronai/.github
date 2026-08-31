@@ -79,7 +79,7 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [taskguard](https://wronai.github.io/taskguard/) | Taskguard | Python |
 | [tellm](https://wronai.github.io/tellm/) | Tellm | Python |
 | [teLLMe](https://wronai.github.io/teLLMe/) | teLLMe — Unified voice+LLM platform for local code, media, and service control via wronai ecosystem (stts, nlp2cmd, code2llm, toonic,… | Python |
-| [text2dsl](https://wronai.github.io/text2dsl/) | Głosowa nawigacja CLI z kontekstowym wsparciem | Python |
+| [text2dsl](https://wronai.github.io/text2dsl/) | text2dsl - Multi-language voice and text interaction framework for developer tools (Make, Git, Docker) using a DSL layer with… | Python |
 | [textx](https://wronai.github.io/textx/) | Textx | Python |
 | [todomat](https://wronai.github.io/todomat/) | Todomat — TODO orchestration with NLP2DSL, ITERUN, and curllm pipelines | Python |
 | [vdisplay](https://wronai.github.io/vdisplay/) | Cross-platform virtual display orchestration with virtual and mirror sessions | Python |
