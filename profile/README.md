@@ -54,7 +54,7 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [hypervisor](https://wronai.github.io/hypervisor/) | TellMesh — URI-first agent monorepo umbrella (uri3, nl2uri, hypervisor, agent factory) | HTML |
 | [img2nl](https://wronai.github.io/img2nl/) | Image → natural language summary with heuristics, thumbnails, and LLM transport hints | HTML |
 | [inceptor](https://wronai.github.io/inceptor/) | Inceptor | HTML |
-| [intent](https://wronai.github.io/intent/) | NLP-driven code generation framework via MQTT | Python |
+| [intent](https://wronai.github.io/intent/) | IntentForge - Intent-Driven Development Framework that turns natural language into executable code, featuring secure sandboxed… | Python |
 | [llamacpp-installer](https://wronai.github.io/llamacpp-installer/) | Llamacpp Installer | Python |
 | [llm](https://wronai.github.io/llm/) | Polski model językowy - demokratyzacja AI dla języka polskiego | Python |
 | [llm-demo](https://wronai.github.io/llm-demo/) | Llm Demo | Python |
