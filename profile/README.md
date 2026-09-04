@@ -65,7 +65,7 @@ Ekosystem narzędzi AI-first dla programistów — automatyzacja, LLM, DevOps i 
 | [mlc-llm](https://wronai.github.io/mlc-llm/) | Mlc Llm | Python |
 | [mullm](https://wronai.github.io/mullm/) | Mullm | Python |
 | [nlp3](https://wronai.github.io/nlp3/) | Universal Context Navigator - Navigate any data structure using natural language | Python |
-| [ocr](https://wronai.github.io/ocr/) | Advanced PDF OCR processing with AI-powered text extraction and selectable text overlays | Python |
+| [ocr](https://wronai.github.io/ocr/) | Ocr | Python |
 | [ollama](https://wronai.github.io/ollama/) | Ollama | Shell |
 | [projektor](https://wronai.github.io/projektor/) | LLM-orchestrated project management with DevOps automation for iterative development | Python |
 | [proxeen](https://wronai.github.io/proxeen/) | Proxeen — AI Desktop Assistant with real-time screen analysis, voice recognition, and window context awareness. | Python |
